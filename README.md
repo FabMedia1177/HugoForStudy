@@ -1,2 +1,2 @@
 # HugoForStudy
-The Hugo Website 2nd Task
+Hugo Website - 2nd Task - COS19 - Fanica, Ayla & Pablo
